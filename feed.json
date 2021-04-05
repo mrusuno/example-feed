@@ -1,0 +1,65 @@
+Response:
+  {
+   "articles": [
+     {
+      "title": "title1",
+      "description": "description1",
+      "image": "https://xxxxx.xxxx.xxx/image.png",
+      "detail": "detail1"
+     },
+     {
+      "title": "title2",
+      "description": "description2",
+      "image": "https://xxxxx.xxxx.xxx/image.png",
+      "detail": "detail2"
+     },
+     {
+      "title": "title3",
+      "description": "description3",
+      "image": "https://xxxxx.xxxx.xxx/image.png",
+      "detail": "detail3"
+     },
+     {
+      "title": "title4",
+      "description": "description4",
+      "image": "https://xxxxx.xxxx.xxx/image.png",
+      "detail": "detail4"
+     },
+     {
+      "title": "title5",
+      "description": "description5",
+      "image": "https://xxxxx.xxxx.xxx/image.png",
+      "detail": "detail5"
+     },
+     {
+      "title": "title6",
+      "description": "description6",
+      "image": "https://xxxxx.xxxx.xxx/image.png",
+      "detail": "detail6"
+     },
+     {
+      "title": "title7",
+      "description": "description7",
+      "image": "https://xxxxx.xxxx.xxx/image.png",
+      "detail": "detai7"
+     },
+     {
+      "title": "title8",
+      "description": "description8",
+      "image": "https://xxxxx.xxxx.xxx/image.png",
+      "detail": "detail8"
+     },
+     {
+      "title": "title9",
+      "description": "description9",
+      "image": "https://xxxxx.xxxx.xxx/image.png",
+      "detail": "detail9"
+     },
+     {
+      "title": "title10",
+      "description": "description10",
+      "image": "https://xxxxx.xxxx.xxx/image.png",
+      "detail": "detail10"
+     },
+   ]
+  }
